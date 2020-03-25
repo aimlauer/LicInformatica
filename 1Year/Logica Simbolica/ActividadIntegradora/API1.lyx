@@ -923,10 +923,6 @@ Y como se puede ver queríamos llegar a
 \begin_inset Formula $P\land¬(Q\lor R)$
 \end_inset
 
- que no es lógicamente igual a 
-\begin_inset Formula $PE(QER)\equiv P\land¬(Q\land¬R)$
-\end_inset
-
  (acá apliqué leyes de Morgan, son lógicamente lo mismo es decir se verdaderos
  en la tabla con los mismos valores).
 \begin_inset Newline newline
