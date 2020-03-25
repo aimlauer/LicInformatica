@@ -923,7 +923,7 @@ Y como se puede ver queríamos llegar a
 \begin_inset Formula $P\land¬(Q\lor R)$
 \end_inset
 
-
+.
 \begin_inset Newline newline
 \end_inset
 
@@ -979,6 +979,41 @@ Es obvio que
  va a ser verdadera cuando Q sea verdadera y P sea falsa.
  Por lo tanto las dos proposiciones se hacen verdaderas en diferentes estados
  entonces no son lógicalmente iguales.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection*
+Trabajo Práctico:
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Definiciones
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Una tautología
 \end_layout
 
 \end_body

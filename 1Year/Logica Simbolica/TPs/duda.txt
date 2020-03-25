@@ -1,0 +1,21 @@
+Hola. Me saqué 90 en un trabajo práctico de Lógica Simbólica
+pude identificar un punto en el cuál me equivoqué, pero el otro
+después de leer varias veces la documentación, todavía no 
+puedo encontrarlo.
+Primero no entiendo mucho este tipo de preguntas,
+Sean P, Q y R proposiciones, de la tabla de verdad de (PvQ)^R
+podemos afirmar que esto es:
+· Falso porque si P es falsa, Q es verdadera y R es verdadera
+entonces (PvQ)^R es falsa.
+· Verdadero porque si P es falsa, Q es falsa y R es verdadera
+entonces (PvQ)^R es falsa.
+Yo opté por el "Verdadero" pero no entiendo la razón por la 
+cuál es verdadero, porque nos menciona un caso que evalúa a falso,
+aunque es lógicamente correcto.
+Y el otro tipo de preguntas son del tipo p^p<->p y p^p=p 
+si son equivalencias lógicas o es una tautología. 
+Y según yo tengo entendido dos expresiones son iguales (=),
+cuando la equivalencia material (<->) construidas con 
+ambas expresiones es una tautología.
+Así que no me parece mal lo que hice ahí tampoco, revisé todas las
+demás preguntas y no me parece que tengo ningún error ahí.
