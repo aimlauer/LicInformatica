@@ -896,7 +896,7 @@ O tratando de llegar como dije anteriormente de un lado al otro.
 \begin_inset Formula 
 \begin{align*}
 (PEQ)ER & \equiv(P\land¬Q)\land(¬R)\\
-\equiv & P\land(¬Q\land¬R)\quad(Asociatividad\ del\ \\land)\\
+\equiv & P\land(¬Q\land¬R)\quad(Asociatividad\ del\ \land)\\
 \equiv & P\land¬(Q\lor R)\quad(Morgan)
 \end{align*}
 

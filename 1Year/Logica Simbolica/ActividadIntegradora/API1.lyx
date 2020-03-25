@@ -110,12 +110,16 @@ Se obtiene verificando las tablas de verdad o partiendo de un lado y llegando
  a otro aplicando teoremas, leyes y axiomas (lo mismo pasa con las leyes
  de Morgan).
  
+\series bold
+
 \begin_inset Quotes eld
 \end_inset
 
 Para verificar entonces que dos proposiciones son equivalentes, basta entonces
  calcular, en una tabla de verdad conjunta o en dos tablas de verdad separadas,
  los valores de verdad de cada proposición.
+\series default
+
 \begin_inset Quotes erd
 \end_inset
 
