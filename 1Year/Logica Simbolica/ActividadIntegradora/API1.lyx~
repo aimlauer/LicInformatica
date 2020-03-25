@@ -764,8 +764,8 @@ F
 \begin_inset Newline newline
 \end_inset
 
-Acá, tienen otros ejemplos de otras propiedades como la comnutatividad del
- 
+Acá, tienen como probar que se cumple la propiedad de la comnutatividad
+ del 
 \begin_inset Formula $\land$
 \end_inset
 
@@ -836,8 +836,9 @@ Ahora si queremos probar si el operador E es asociativo tenemos que probar
 \end_inset
 
 .
- Es decir partir de un lado y llegar al otro o a través de tablas de verdad
- de la siguiente manera:
+ Esto podemos hacerlo partiendo de un lado y llegar al otro, o partiendo
+ de ambos lados y llegando a la misma expresión, o a través de tablas de
+ verdad de la siguiente manera:
 \begin_inset Newline newline
 \end_inset
 
@@ -851,7 +852,11 @@ Ahora si queremos probar si el operador E es asociativo tenemos que probar
 \begin_inset Newline newline
 \end_inset
 
+En esta tabla estoy tomando en consideración que 
+\begin_inset Formula $PEQ\equiv P\land(¬Q)$
+\end_inset
 
+.
 \begin_inset Newline newline
 \end_inset
 
@@ -866,11 +871,7 @@ target "https://www.wolframalpha.com/input/?i=%5B%28%28P%26%26%7EQ%29%26%26%7ER%
 \begin_inset Newline newline
 \end_inset
 
-Tomando en consideración que 
-\begin_inset Formula $PEQ\equiv P\land(¬Q)$
-\end_inset
 
-.
 \begin_inset Newline newline
 \end_inset
 
@@ -878,7 +879,8 @@ Tomando en consideración que
 \begin_inset Newline newline
 \end_inset
 
-O tratando de llegar al otro lado partimos de 
+O tratando de llegar como dije anteriormente de un lado al otro.
+ Por ejemplo partimos de 
 \begin_inset Formula $(PEQ)ER$
 \end_inset
 
@@ -894,8 +896,8 @@ O tratando de llegar al otro lado partimos de
 \begin_inset Formula 
 \begin{align*}
 (PEQ)ER & \equiv(P\land¬Q)\land(¬R)\\
-\equiv & P\land(¬Q\land¬R)\\
-\equiv & P\land(Q\lor R)
+\equiv & P\land(¬Q\land¬R)\quad(Asociatividad\ del\ \\land)\\
+\equiv & P\land¬(Q\lor R)\quad(Morgan)
 \end{align*}
 
 \end_inset
@@ -929,7 +931,7 @@ Y como se puede ver queríamos llegar a
 \begin_inset Newline newline
 \end_inset
 
-Y tampocoes 
+Y tampoco es 
 \series bold
 conmutativa
 \series default
