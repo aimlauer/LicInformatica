@@ -929,7 +929,11 @@ Y como se puede ver queríamos llegar a
 \begin_inset Newline newline
 \end_inset
 
-Y no es conmutativa porque no podés llegar desde 
+Y tampoco es 
+\series bold
+conmutativa
+\series default
+ porque no podés llegar desde 
 \begin_inset Formula $PEQ$
 \end_inset
 

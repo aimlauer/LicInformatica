@@ -929,7 +929,11 @@ Y como se puede ver queríamos llegar a
 \begin_inset Newline newline
 \end_inset
 
-Y no es conmutativa porque no podés llegar desde 
+Y tampocoes 
+\series bold
+conmutativa
+\series default
+ porque no podés llegar desde 
 \begin_inset Formula $PEQ$
 \end_inset
 
@@ -971,6 +975,8 @@ Es obvio que
 \end_inset
 
  va a ser verdadera cuando Q sea verdadera y P sea falsa.
+ Por lo tanto las dos proposiciones se hacen verdaderas en diferentes estados
+ entonces no son lógicalmente iguales.
 \end_layout
 
 \end_body
