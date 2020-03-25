@@ -110,12 +110,16 @@ Se obtiene verificando las tablas de verdad o partiendo de un lado y llegando
  a otro aplicando teoremas, leyes y axiomas (lo mismo pasa con las leyes
  de Morgan).
  
+\series bold
+
 \begin_inset Quotes eld
 \end_inset
 
 Para verificar entonces que dos proposiciones son equivalentes, basta entonces
  calcular, en una tabla de verdad conjunta o en dos tablas de verdad separadas,
  los valores de verdad de cada proposición.
+\series default
+
 \begin_inset Quotes erd
 \end_inset
 
@@ -897,7 +901,8 @@ O tratando de llegar como dije anteriormente de un lado al otro.
 \begin{align*}
 (PEQ)ER & \equiv(P\land¬Q)\land(¬R)\\
 \equiv & P\land(¬Q\land¬R)\quad(Asociatividad\ del\ \land)\\
-\equiv & P\land¬(Q\lor R)\quad(Morgan)
+\equiv & P\land¬(Q\lor R)\quad(Morgan)\\
+\equiv & PE(Q\lor R)
 \end{align*}
 
 \end_inset
@@ -915,11 +920,11 @@ Y como se puede ver queríamos llegar a
 \end_inset
 
  pero llegamos a 
-\begin_inset Formula $P\land(Q\lor R)$
+\begin_inset Formula $P\land¬(Q\lor R)$
 \end_inset
 
  que no es lógicamente igual a 
-\begin_inset Formula $P\land¬(Q\land¬R)\equiv P\land(¬Q\lor R)$
+\begin_inset Formula $PE(QER)$
 \end_inset
 
  (acá apliqué leyes de Morgan, son lógicamente lo mismo es decir se verdaderos

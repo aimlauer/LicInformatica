@@ -901,7 +901,8 @@ O tratando de llegar como dije anteriormente de un lado al otro.
 \begin{align*}
 (PEQ)ER & \equiv(P\land¬Q)\land(¬R)\\
 \equiv & P\land(¬Q\land¬R)\quad(Asociatividad\ del\ \land)\\
-\equiv & P\land¬(Q\lor R)\quad(Morgan)
+\equiv & P\land¬(Q\lor R)\quad(Morgan)\\
+\equiv & PE(Q\lor R)
 \end{align*}
 
 \end_inset
@@ -919,11 +920,11 @@ Y como se puede ver queríamos llegar a
 \end_inset
 
  pero llegamos a 
-\begin_inset Formula $P\land(Q\lor R)$
+\begin_inset Formula $P\land¬(Q\lor R)$
 \end_inset
 
  que no es lógicamente igual a 
-\begin_inset Formula $P\land¬(Q\land¬R)\equiv P\land(¬Q\lor R)$
+\begin_inset Formula $PE(QER)\equiv P\land¬(Q\land¬R)$
 \end_inset
 
  (acá apliqué leyes de Morgan, son lógicamente lo mismo es decir se verdaderos

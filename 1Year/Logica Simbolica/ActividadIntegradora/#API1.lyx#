@@ -30,7 +30,16 @@
 \index_command default
 \paperfontsize default
 \spacing single
-\use_hyperref false
+\use_hyperref true
+\pdf_bookmarks true
+\pdf_bookmarksnumbered false
+\pdf_bookmarksopen false
+\pdf_bookmarksopenlevel 1
+\pdf_breaklinks true
+\pdf_pdfborder false
+\pdf_colorlinks true
+\pdf_backref false
+\pdf_pdfusetitle true
 \papersize default
 \use_geometry true
 \use_package amsmath 1
@@ -61,9 +70,9 @@
 \topmargin 1.5cm
 \rightmargin 1.5cm
 \bottommargin 1.5cm
-\headheight 1.5cm
-\headsep 1.5cm
-\footskip 1.5cm
+\headheight 0cm
+\headsep 0cm
+\footskip 0cm
 \secnumdepth 3
 \tocdepth 3
 \paragraph_separation indent
@@ -101,12 +110,16 @@ Se obtiene verificando las tablas de verdad o partiendo de un lado y llegando
  a otro aplicando teoremas, leyes y axiomas (lo mismo pasa con las leyes
  de Morgan).
  
+\series bold
+
 \begin_inset Quotes eld
 \end_inset
 
 Para verificar entonces que dos proposiciones son equivalentes, basta entonces
  calcular, en una tabla de verdad conjunta o en dos tablas de verdad separadas,
  los valores de verdad de cada proposición.
+\series default
+
 \begin_inset Quotes erd
 \end_inset
 
@@ -755,8 +768,8 @@ F
 \begin_inset Newline newline
 \end_inset
 
-Acá, tienen otros ejemplos de otras propiedades como la comnutatividad del
- 
+Acá, tienen como probar que se cumple la propiedad de la comnutatividad
+ del 
 \begin_inset Formula $\land$
 \end_inset
 
@@ -823,15 +836,154 @@ Ahora si queremos probar si el operador E es asociativo tenemos que probar
 \end_inset
 
 
-\begin_inset Formula $(PEQ)ER\equiv P(QER)$
+\begin_inset Formula $(PEQ)ER\equiv PE(QER)$
 \end_inset
 
 .
- Es decir partir de un lado y llegar al otro o a través de tablas de verdad.
+ Esto podemos hacerlo partiendo de un lado y llegar al otro, o partiendo
+ de ambos lados y llegando a la misma expresión, o a través de tablas de
+ verdad de la siguiente manera:
 \begin_inset Newline newline
 \end_inset
 
 
+\begin_inset Graphics
+	filename TablaAsociatividad.png
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+En esta tabla estoy tomando en consideración que 
+\begin_inset Formula $PEQ\equiv P\land(¬Q)$
+\end_inset
+
+.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+target "https://www.wolframalpha.com/input/?i=%5B%28%28P%26%26%7EQ%29%26%26%7ER%29%2C%28P%26%26%7E%28Q%26%26%7ER%29%29%5D"
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+O tratando de llegar como dije anteriormente de un lado al otro.
+ Por ejemplo partimos de 
+\begin_inset Formula $(PEQ)ER$
+\end_inset
+
+ y queremos llegar a 
+\begin_inset Formula $PE(QER)\equiv P\land¬(Q\land¬R)$
+\end_inset
+
+ de la siguiente forma:
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula 
+\begin{align*}
+(PEQ)ER & \equiv(P\land¬Q)\land(¬R)\\
+\equiv & P\land(¬Q\land¬R)\quad(Asociatividad\ del\ \land)\\
+\equiv & P\land¬(Q\lor R)\quad(Morgan)\\
+\equiv & PE(Q\lor R)
+\end{align*}
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Y como se puede ver queríamos llegar a 
+\begin_inset Formula $PE(QER)$
+\end_inset
+
+ es decir a 
+\begin_inset Formula $P\land¬(Q\land¬R)$
+\end_inset
+
+ pero llegamos a 
+\begin_inset Formula $P\land¬(Q\lor R)$
+\end_inset
+
+ que no es lógicamente igual a 
+\begin_inset Formula $P$
+\end_inset
+
+ (acá apliqué leyes de Morgan, son lógicamente lo mismo es decir se verdaderos
+ en la tabla con los mismos valores).
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Y tampoco es 
+\series bold
+conmutativa
+\series default
+ porque no podés llegar desde 
+\begin_inset Formula $PEQ$
+\end_inset
+
+ hasta 
+\begin_inset Formula $QEP$
+\end_inset
+
+, es decir desde 
+\begin_inset Formula $P\land¬Q$
+\end_inset
+
+ hasta 
+\begin_inset Formula $Q\land¬P$
+\end_inset
+
+.
+ Y si te queda dudas mira esta tabla de verdad:
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+target "https://www.wolframalpha.com/input/?i=%5B%28P%26%26%7EQ%29%2C%28Q%26%26%7EP%29%5D"
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Es obvio que 
+\begin_inset Formula $P\land¬Q$
+\end_inset
+
+ va a ser True cuando Q sea falso y P sea verdadero.
+ Y 
+\begin_inset Formula $Q\land¬P$
+\end_inset
+
+ va a ser verdadera cuando Q sea verdadera y P sea falsa.
+ Por lo tanto las dos proposiciones se hacen verdaderas en diferentes estados
+ entonces no son lógicalmente iguales.
 \end_layout
 
 \end_body
