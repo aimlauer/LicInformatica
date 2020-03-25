@@ -922,6 +922,57 @@ Y como se puede ver queríamos llegar a
 
  (acá apliqué leyes de Morgan, son lógicamente lo mismo es decir se verdaderos
  en la tabla con los mismos valores).
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Y no es conmutativa porque no podés llegar desde 
+\begin_inset Formula $PEQ$
+\end_inset
+
+ hasta 
+\begin_inset Formula $QEP$
+\end_inset
+
+, es decir desde 
+\begin_inset Formula $P\land¬Q$
+\end_inset
+
+ hasta 
+\begin_inset Formula $Q\land¬P$
+\end_inset
+
+.
+ Y si te queda dudas mira esta tabla de verdad:
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+target "https://www.wolframalpha.com/input/?i=%5B%28P%26%26%7EQ%29%2C%28Q%26%26%7EP%29%5D"
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Es obvio que 
+\begin_inset Formula $P\land¬Q$
+\end_inset
+
+ va a ser True cuando Q sea falso y P sea verdadero.
+ Y 
+\begin_inset Formula $Q\land¬P$
+\end_inset
+
+ va a ser verdadera cuando Q sea verdadera y P sea falsa.
+ Por lo tanto las dos proposiciones se hacen verdaderas en diferentes estados
+ entonces no son lógicalmente iguales.
 \end_layout
 
 \end_body
