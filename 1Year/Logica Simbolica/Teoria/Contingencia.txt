@@ -1,0 +1,3 @@
+Se entiende por verdad contingente o verdad de hecho, aquella proposición puede ser verdadera 
+o falsa según las proposiciones que la integren ( es una combinación entre tautología y contradicción). dicho de 
+otra forma, su valor F, no depende de los valores de verdad de las proposiciones que la forman.

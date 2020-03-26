@@ -1,0 +1,75 @@
+
+
+elementos básicos de un sistema que, si bien no son los únicos, engloban todos aquellos que
+han sido sugeridos por otros autores. Éstos son: los objetivos, el ambiente, los recursos, 
+los componentes y la gestión (ver ﬁgura 1
+
+
+
+Las relaciones son los vínculos que se establecen entre los elementos del sistema y se corresponden especíﬁcamente con acciones, es por ello que se indicarán con verbos. Las relaciones son las funciones que desempeñan cada uno de los elementos.
+
+
+Los objetivos del sistema establecen la razón de ser y el motivo por el cual se agruparon los elementos y se establecen las relaciones. Los objetivos determinan todos los otros componentes del sistema, de allí la importancia de su correcta deﬁnición. Entenderás también que el objetivo es la meta, es decir , “el destino que determina la existencia del sistema” (Stair , 2010, p. 9).
+
+ El objetivo del sistema escuela será “brindar enseñanza de calidad y según las normativas educacionales vigentes a niños y jóvenes”
+
+Todo sistema se puede definir por sus entradas, sus procesos y sus salidas.
+
+la diferencia entre entradas y recursos es mínima y depende
+ sólo del punto de vista y de la circunstancia. En el proceso, las 
+entradas son los elementos sobre los que se aplican los recursos. 
+Los recursos alguna vez han entrado, es cierto; pero en el proceso
+cotidiano de transformación de entradas en salidas estos son 
+considerados recursos (Van Gich,1995, p. 27).
+
+
+Los recursos alguna vez han entrado, es cierto; pero en el proceso cotidiano de
+transformación de entradas en salidas estos son considerados recursos 
+
+
+Niveles
+######
+Nivel directivo
+
+Nivel administrativo
+
+Nivel Operativo
+######
+La actividad principal es la supervisión del personal operativo,
+ por lo que se requiere una interacción intensa
+personal. Estos administradores se encargan de que el personal operativo
+ cumpla con los lineamientos
+establecidos en cada actividad encomendada.
+En este nivel se controla el desarrollo de las actividades para 
+cumplir con el objetivo propuesto. Otra
+función importante que desempeña este nivel es la asignación de 
+recursos para el desempeño de las actividades.
+
+
+Retroalimentacion
+#######
+Retroalimentación negativa. Este tipo de retroalimentación se efectúa mediante un lazo o ciclo
+de control. Es la del tipo correctivo y ayuda a mantener al sistema que retroalimenta dentro de
+un margen crítico de operación al reducir las variaciones de rendimiento respecto de los
+objetivos o estándares. Un sensor detecta el efecto de la salida sobre el medio exterior; esta
+información es aplicada al sistema como una entrada y se realizan los ajustes necesarios de
+acuerdo con las metas predeterminadas.
+
+Componentes
+#######
+Para Churchman (1993), los componentes de un sistema son las misiones, los trabajos 
+o actividades que el mismo debe realizar para lograr sus objetivos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
