@@ -1,0 +1,214 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Section*
+Sistemas
+\end_layout
+
+\begin_layout Standard
+Un sistema se define como 
+\begin_inset Quotes eld
+\end_inset
+
+conjunto de componenes interrelacionados de modo tal que producen como resultado
+ algo superior y distinto a la simple agregación de los elementos.
+\begin_inset Newline newline
+\end_inset
+
+Sistemas 
+\begin_inset Formula $\not=$
+\end_inset
+
+conjunto de partes.
+\begin_inset Newline newline
+\end_inset
+
+El sistema proudce algo superior y distinto a la simple agrgación de los
+ elementos.
+\begin_inset Newline newline
+\end_inset
+
+Esta relación existente sólo en los sistemas se llama sinergía y se refiere
+ al trabajo mancomutado de los elementos en pos de los resultados mejores.
+ Ejemplos de relaciones sinérgicas se encuentran en los equipos de trabajo
+ en los cuáles los participantes se apoyan unos a otros y obtienen resultados
+ exitosos.
+\end_layout
+
+\begin_layout Section*
+Modelos
+\end_layout
+
+\begin_layout Standard
+Un modelo es una abstracción de la realidad que nos sirve para realizar
+ ensayos y manipulaciones sin problemas.
+ 
+\begin_inset Newline newline
+\end_inset
+
+El trabajo con modelos posibilita que se elaboren distintos productos y
+ se prueben antes de realizar las aplicaciones concretas finales, lo que
+ permite reducir costos y tiempo y, a su vez, muchas veces, reducir riesgos.
+\end_layout
+
+\begin_layout Section*
+La jerarquía de sistemas
+\end_layout
+
+\begin_layout Itemize
+Un caso simple de un 
+\series bold
+subsistema 
+\series default
+es en un hospital y, a medida que avanza el análisis, descubrimos que la
+ sección de 
+\begin_inset Quotes eld
+\end_inset
+
+Mesa de Turnos
+\begin_inset Quotes erd
+\end_inset
+
+ es un sector con problemáticas y sus procesos requiren mayor análisis.
+ Se lo llama subsistema y se conectará con otros para logran un fin determinado,
+ que generalmente es porducir una salida hacia otra parte del mismo sistema
+ o bien hacia el ambiente.
+\end_layout
+
+\begin_layout Standard
+Sistemas posee distintos sistemas como área de comercialización, producción,
+ administración y finanzas que, estudiados individualmente, constituyen
+ verdaderos sistemas.
+ 
+\series bold
+Los objetivos del subsistema siempre deben acompañar al objetivo del sistema
+ mayor
+\series default
+.
+ El no cumplimiento de esta regla genera problemas en los sistemas.
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Metasistema
+\series default
+ es un sistema mayor que contiene al sistema bajo estudio.
+ Es un sistema que pertenece al ambiente y que lo contiene en su conjunto.
+ Por ejemplo al analizar el sector de ventas de una empresa como sistema,
+ encontramos que su metasistema es la empresa misma.
+\end_layout
+
+\begin_layout Standard
+El valor metodológico del estudio del metasistema es menor que el de subsistemas.
+ A los efectos de nuestros estudios posteriores y, en general, para el desarroll
+o de las disciplinas informáticas el concepto central es el de subsitema,
+ tal como un desgranamiento del a complejidad en pos de la resolución de
+ las distintas problemáticas.
+\end_layout
+
+\begin_layout Section*
+El enfoque de sistemas
+\end_layout
+
+\begin_layout Standard
+En el modelo de Churchman se hace hincapíe sobre cinco elementos básicos
+ de un sistema que, si bien no son los únicos, engloban todos aquellos que
+ han sido sugeridos por otros autores.
+ Éstos son: los objetivos, el ambiente, los recursos, los componentes y
+ gestión.
+\end_layout
+
+\begin_layout Subsection*
+Los objetivos
+\end_layout
+
+\begin_layout Standard
+Los objetivos de un sistema son aquellas metas o fines generales que son
+ la razón de ser de su existencia, es decir, los motivos por los cuales
+ luchan constantemente.
+ De aquí se deriva una de las características o propiedades fundamentales
+ de todos sistema: la teleología o búsqueda de objetivos.
+ La determinación de los objetivos de sistemas mecánicos parece fácil, no
+ así los de sistemas humanos.
+ cuando se estudian estos últimos, hay que estar alerta para diferenciar
+ entre objetivos formulados y objetivos reales.
+\end_layout
+
+\end_body
+\end_document
