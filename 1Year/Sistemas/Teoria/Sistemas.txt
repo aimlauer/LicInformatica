@@ -6,7 +6,8 @@ los componentes y la gestión (ver ﬁgura 1
 
 
 
-Las relaciones son los vínculos que se establecen entre los elementos del sistema y se corresponden especíﬁcamente con acciones, es por ello que se indicarán con verbos. Las relaciones son las funciones que desempeñan cada uno de los elementos.
+Las relaciones son los vínculos que se establecen entre los elementos del sistema y se corresponden especíﬁcamente con
+ acciones, es por ello que se indicarán con verbos. Las relaciones son las funciones que desempeñan cada uno de los elementos.
 
 
 Los objetivos del sistema establecen la razón de ser y el motivo por el cual se agruparon los elementos y se establecen las relaciones. Los objetivos determinan todos los otros componentes del sistema, de allí la importancia de su correcta deﬁnición. Entenderás también que el objetivo es la meta, es decir , “el destino que determina la existencia del sistema” (Stair , 2010, p. 9).
