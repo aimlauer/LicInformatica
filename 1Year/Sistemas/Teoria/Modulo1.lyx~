@@ -993,7 +993,6 @@ Un sistema de elementos sencillos de describir y, por ende, de pocas relaciones
  será un sistema simple, por ejemplo, una silla.
 \end_layout
 
-\begin_deeper
 \begin_layout Enumerate
 
 \series bold
@@ -1052,6 +1051,7 @@ software
 La complejidad del software se debe a cuatro razones principales:
 \end_layout
 
+\begin_deeper
 \begin_layout Itemize
 La complejidad del dominio del problema: los problemas que se intentan resolver
  con el software implican una complejidad que es inevitable, tienen requisitos
@@ -1125,6 +1125,34 @@ a
 nunca funciona
 \series default
 .
+\end_layout
+
+\begin_layout Section*
+Las organizaciones como sistemas
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename organizaciones-sistemas.png
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Un elemento para el enfoque de sistemas es la determinación del ambiente.
+ El cuadro muestra los elementos que conforman el ambiente y los 
+\series bold
+distingue
+\series default
+ en una categoría de entorno específico
+\emph on
+ (para hacer referencia a aquel que influye directamente y por ende necesario
+ de identificar y cuantificar su impacto)
+\emph default
+ de un entorno genérico, pero que para su identificación son necesarios
+ estudios precisos y seguramente muy costosos.
 \end_layout
 
 \end_body
