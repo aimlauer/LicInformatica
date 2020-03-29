@@ -394,5 +394,458 @@ Enfoque de sistemas
  como sistemas.
 \end_layout
 
+\begin_layout Subsection*
+Enfoque estático
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+En todo sistema existen los siguientes componentes: elementos, relaciones
+ y objetivos
+\begin_inset Quotes erd
+\end_inset
+
+.
+\begin_inset Newline newline
+\end_inset
+
+Cada 
+\series bold
+elemento
+\series default
+ posee un nombre que lo identifica y permite clasificarlo.
+ Si se analiza, en el análisis del sistema 
+\begin_inset Quotes eld
+\end_inset
+
+escuela
+\begin_inset Quotes erd
+\end_inset
+
+ los 
+\begin_inset Quotes eld
+\end_inset
+
+alumnos
+\begin_inset Quotes erd
+\end_inset
+
+ son un elemento.
+ 
+\begin_inset Newline newline
+\end_inset
+
+Las características que junto con el nombre idetnifican al elemento se denominan
+ 
+\series bold
+atributos
+\series default
+.
+\begin_inset Newline newline
+\end_inset
+
+Las relaciones son los vínculos que se establecen entre los elementos del
+ sistema y se corresponden específicamente con acciones, es por ello que
+ se indicarán con verbos.
+ 
+\series bold
+Las relaciones son las funciones que desempeñan cada uno de los elementos.
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+Los 
+\series bold
+objetivos
+\series default
+ del sistema establecen la razón de ser y el motivo por el cual se agruparon
+ los elementos y se establecen las relaciones, deben ser formulados de forma
+ clara y precisa y su redacción debe permitir evaluar su cumplimiento.
+ Llamaremos 
+\series bold
+medida de actuación
+\series default
+ (o estándar de desempeño) de un sistema a aquellos objetivos definidos
+ en forma completa, clara y cuantitativa que permiten llevar adelante mediciones
+ y controles.
+\begin_inset Newline newline
+\end_inset
+
+Otros elementos que permiten medir el desempeño de un sistema son la 
+\series bold
+eficiencia y la eficacia
+\series default
+.
+ Son términos utlizados para comparar sistemas entre sí.
+ (Que carajo es la relación costo? y por qué ponen esa mierda si no la explican,
+ encima que odio materias de economía en general), ¿por qué tenemos esta
+ basura de materia?, la puta madre.
+\begin_inset Newline newline
+\end_inset
+
+La eficacia mide el grado en el que un sistema cumple sus metas.
+ Se puede calcular al dividir las metas alcanzadas en la realidad entre
+ el total de metas establecidas en el plan.
+ Un sistema que establece un objetivo y, más allá de los recursos que insume,
+ lo realiza; es un sistema eficaz.
+\begin_inset Newline newline
+\end_inset
+
+Eficacia = se mide a través de la cantidad de recursos que consume, por
+ ejemplo es común escuchar que las empresas privadas son más 
+\series bold
+eficietes 
+\series default
+que las públicas ya que su relación costo- beneficio es mejor.
+\begin_inset Newline newline
+\end_inset
+
+Eficiencia = se mide mediante metas alcanzadas no importa los recursos que
+ consume.
+\end_layout
+
+\begin_layout Subsection*
+Enforque entrada- proceso- salida
+\end_layout
+
+\begin_layout Standard
+Todo sistema se puede definir por sus entradas, sus procesos y sus salidas.
+\begin_inset Newline newline
+\end_inset
+
+(Fig.
+ 1) Página 5
+\end_layout
+
+\begin_layout Subsection*
+Entradas
+\end_layout
+
+\begin_layout Standard
+Llamamos también insumos o input, corresponden con aquellos elementos que,
+ introducidos desde el ambiente y en forma frecuente, permiten el desarrollo
+ del proceso.
+ Las entradas son de distinto tipo, por ejemplo: materias primas, energía,
+ dinero e información.
+ La diferencia entre entrada y recursos es mínima y depende sólo del punto
+ de vista y de la circunstancia.
+\end_layout
+
+\begin_layout Subsection*
+Salidas
+\end_layout
+
+\begin_layout Standard
+También denominadas resultados o productos, son aquellos elementos que egresan
+ del sistema y cruzan los límites hacia el medio circundante.
+ Tanto las entradas como las salidas son filtradas por los límites o fronteras
+ del sistema.
+ Las salida se encuentran directamente relacionadas con los objetivos ya
+ que a partir de ellas se evaluará la actuación del sistema.
+\end_layout
+
+\begin_layout Subsection*
+Proceso
+\end_layout
+
+\begin_layout Standard
+Es el conjunto que se desarrollan para permitir que las entradas se transformen
+ en salidas.
+ Estas actividades se encuentran encapsuladas u ocultas en un primer momento
+ ya que para comprender mejor el funcionamiento de este modelo utliza, en
+ palabras de Saroka (2002) el recurso de 
+\begin_inset Quotes eld
+\end_inset
+
+caja negra
+\begin_inset Quotes erd
+\end_inset
+
+.
+ 
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+Caja negra
+\series default
+: este elemento es de mucha importancia en el análisis de sistemas y en
+ la resolución de problemas, permite que el detalle 
+\series bold
+se pase a un segundo plano y se analice la cara externa del sistema en una
+ primera instancia
+\series default
+.
+\begin_inset Newline newline
+\end_inset
+
+El proceso supone la transformación de las entradas en salidas útiles.
+ Esto implica ejecutar acciones o actividades que mofiquen las entradas.
+ 
+\series bold
+Una medida de la eficiencia de los sistemas será la evaluación del valor
+ que le agregan los procesos a las entradas.
+\begin_inset Newline newline
+\end_inset
+
+
+\series default
+El proceso (y más aún las actividades o alcances que lo componen) 
+\series bold
+son desempeñadas por elementos que se denominan recursos
+\series default
+.
+ En el material de Stair y Reynolds (2010) 
+\series bold
+los recursos y las actividades se encuentran agrupados en el concepto de
+ mecanismos de procesamiento
+\series default
+.
+\end_layout
+
+\begin_layout Subsection*
+Ambiente
+\end_layout
+
+\begin_layout Standard
+El ambiente es el medio que rodea al sistema y lo afecta.
+ Está compuesto por aquellos elementos de contexto, que no pertenecen al
+ dominio del sistema pero que poseen una influencia tal sobre el desempeño
+ de éste que su identificación resulta imperiosa.
+ Son elementos que están fuera del alcance del sistema (o sea, que el sistema
+ no los puede controlar).
+\end_layout
+
+\begin_layout Subsection*
+Límites o fronteras
+\end_layout
+
+\begin_layout Standard
+Separan el ambiente del sistema.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+A los efectos del análisis 
+\series bold
+permiten distinguir cuáles son los elementos que se encuentran dentro del
+ sistema (y de su control) y cuáles no
+\series default
+
+\begin_inset Quotes erd
+\end_inset
+
+.
+\begin_inset Newline newline
+\end_inset
+
+En un sistema físico, el límite es una demarcación natural determinada por
+ la estructura básica y sus objetivos.
+\begin_inset Newline newline
+\end_inset
+
+En los sistemas abstractos, los límites son definidos por un observador
+ u analista.
+ Este límite, por lo tanto, es abitrario.
+ La línea divisoria ambiental varía de un observador a otro.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Las soluciones que los administradores dan a los problemas que afectan a
+ su compañia, dependen de cómo ellos definen los límites del sistema.
+ 
+\begin_inset Newline newline
+\end_inset
+
+También encontramos situaciones en las cuáles el problema amerite que se
+ 
+\begin_inset Quotes eld
+\end_inset
+
+corran los límites
+\begin_inset Quotes erd
+\end_inset
+
+.
+ En el caso en el cual ante un primer análisis se fijan límites que luego
+ se observan que han quedado muy reducidos y 
+\series bold
+la situación al problema sólo será posible si se atacan aspectos situados
+ en el ambiente
+\series default
+.
+\end_layout
+
+\begin_layout Subsection*
+Retroalimentación
+\end_layout
+
+\begin_layout Standard
+La retroalimentación es la salida que se utliza para 
+\series bold
+efectuar cambios
+\series default
+ en las entradas o procesos.
+ 
+\series bold
+Consiste en la información repecto al funcionamiento de un sistema, que
+ se introduce como entrada para realizar el ajuste de las actividades del
+ mismo
+\series default
+.
+ De esta forma se produce el control del sistema.
+ El control es el proceso que mide el funcionamiento actual y lo guía hacia
+ una meta determinada.
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+Las salidas reales son comparadas con las 
+\color blue
+salidas esperadas
+\color inherit
+.
+
+\series default
+ Las diferencias originan una nueva entrada al proceso
+\series bold
+ para que se ajusten sus operaciones
+\series default
+ y lograr de este modo las salidas que se espera que brinde el sistema.
+\begin_inset Newline newline
+\end_inset
+
+La retroalimentación es de gran importancia para los administradores y todos
+ aquellos involucrados en la toma de decisiones.
+\begin_inset Newline newline
+\end_inset
+
+Existen dos tipos de retroalimentación:
+\end_layout
+
+\begin_layout Itemize
+Negativa: Se cumple mediante un lazo o ciclo de control.
+ Es la del 
+\series bold
+tipo correctivo 
+\series default
+y ayuda a mantener al sistema que retroalimenta dentro de un margen crítico
+ de operación al reducir las variaciones de rendimiento respecto de los
+ objetivos o estándares.
+ Un sensor detecta el efecto de la salida sobre el medio exterior, esta
+ información es aplicada al sistema como una entrada y se realizan los ajustes
+ necesarios de acuerdo con las metas predeterminadas.
+\end_layout
+
+\begin_layout Itemize
+Positiva: Éste refuerza la operación de un sistema, lo hace continuar con
+ el mismo rendimiento y sin alterar sus actividades.
+\end_layout
+
+\begin_layout Subsection*
+Enfoque de sistemas
+\end_layout
+
+\begin_layout Standard
+El enfoque de sistemas puede llamarse correctamente teoría general de sistemas
+ aplicada ya que esta le proporciona los 
+\series bold
+aspectos teóricos y el enfoque avanza en su aplicación
+\series default
+.
+ Esta visión de los sistemas se orienta especialmente a los sistemas sociales
+ (en especial a la administración) y tiene como autor y referente principal
+ a 
+\series bold
+West Churchman
+\series default
+.
+\end_layout
+
+\begin_layout Subsection*
+Clasificación de los sistemas
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Gaining Insight
+\series default
+ (Obtención/Ganancia de visión)
+\begin_inset Newline newline
+\end_inset
+
+Un sistema abierto es aquel que reconoce la presencia del ambiente y actúa
+ en consideración.
+ Son sistemas que continuamente modifican sus procesos o sus elementos (hasta
+ los objetivos) para estar acordes a los cambios que el ambiente produce.
+ Son, por ende, sistemas que perduran en el tiempo.
+ Estos sistemas capturan recursos del ambiente en forma permanente.
+ Para ellos la información es un elemento de especial importancia ya que
+ le aporta el conocimiento necesario del ambiente.
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Sistemas Abiertos
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+Un sistema abierto es aquel que reconoce la presencia del ambiente.
+ Son sistemas que continuamente modifican sus procesos o sus elementos (hasta
+ los objetivos) para estar acordes a los cambios que el ambiente produce.
+ Son, por ende, sistemas que perduran en el tiempo.
+ Estos sistemas capturan recursos del ambiente en forma permanente.
+ Para ellos la información es un elemento de especial importancia.
+\begin_inset Newline newline
+\end_inset
+
+Ejemplo de sistema abierto son los organismos vivos: el hombre, las plantas,
+ o bien, las organizaciones.
+ Se los considera abiertos ya que se adaptan en forma permanente a los cambios
+ que se generan en el ambiente donde actúan; es decir, son influenciados
+ y producen influencia sobre el medio o contexto.
+\begin_inset Newline newline
+\end_inset
+
+Podemos decir que los sistemas abiertos son los que intercambian información,
+ materiales y energía con su ambiente.
+ Esta clase de sistema 
+\series bold
+adapta
+\series default
+ su organización a los 
+\series bold
+cambios externos
+\series default
+, es decir, que son permeables a las influencias del contexto.
+ Si se toman como base las entradas y la retroalimentación, de manera que
+ se produzca la homeostasis se logra que los sistemas funcionen en estado
+ de equilibrio.
+ Es por esto que la clasificación referida a adaptable y no adaptable es
+ una característica inherente de los sistemas abierto.
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Sistemas cerrados
+\begin_inset Newline newline
+\end_inset
+
+
+\series default
+Los sistemas 
+\end_layout
+
 \end_body
 \end_document
