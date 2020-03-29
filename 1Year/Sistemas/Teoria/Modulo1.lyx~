@@ -11,11 +11,11 @@
 \language_package default
 \inputencoding auto
 \fontencoding global
-\font_roman "default" "default"
-\font_sans "default" "default"
-\font_typewriter "default" "default"
+\font_roman "default" "Corbel"
+\font_sans "default" "Arial"
+\font_typewriter "default" "Arial Narrow"
 \font_math "auto" "auto"
-\font_default_family default
+\font_default_family sfdefault
 \use_non_tex_fonts false
 \font_sc false
 \font_osf false
@@ -28,7 +28,7 @@
 \output_sync 0
 \bibtex_command default
 \index_command default
-\paperfontsize default
+\paperfontsize 12
 \spacing single
 \use_hyperref false
 \papersize default
@@ -818,7 +818,7 @@ Ejemplo de sistema abierto son los organismos vivos: el hombre, las plantas,
 \end_inset
 
 Podemos decir que los sistemas abiertos son los que intercambian información,
- materiales y energía con su ambiete.
+ materiales y energía con su ambiente.
  Esta clase de sistema 
 \series bold
 adapta
@@ -833,6 +833,298 @@ cambios externos
  de equilibrio.
  Es por esto que la clasificación referida a adaptable y no adaptable es
  una característica inherente de los sistemas abierto.
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Sistemas cerrados
+\begin_inset Newline newline
+\end_inset
+
+
+\series default
+Estos no reconocen al ambiente como tal, no distinguen sus cambios o, si
+ lo hacen, no actúan en consideración.
+ Son sistemas que agotan sus recursos y no los recuperan.
+ Tienen vida limitada.
+\begin_inset Newline newline
+\end_inset
+
+Por lo general uno tiende a encontrar ejemplos de sistemas cerrados en aquellos
+ inanimados o mecánicos por ejemplo: una pila, un reloj, una máquina.
+ En el caso de organizaciones, como empresas familiares tradicionales, instituci
+ones religiosas conservadores o sociedades primitivas.
+ Estos son sistemas sociales cerrados que tienden a desaparecer.
+ No hay entradas desde al ambiete que propicien o favorezcan la adaptación.
+ Se dice que son sistemas esumir un 
+\series bold
+no permeables
+\series default
+.
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Sistemas probabilistas
+\begin_inset Newline newline
+\end_inset
+
+
+\series default
+Son aquellos sistemas cuyo comportamiento no se encuentra determinado de
+ antemano, aunque sí existen posibilidades determinadas (o probabilidades)
+ de que cumplan con algunos parámetros o reglas dadas, como los pronósticos
+ del tiempo, los sistemas electorales y los juegos de azar.
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Sistemas deterministas
+\begin_inset Newline newline
+\end_inset
+
+
+\series default
+Estos sistemas se rigen por la presencia de la dupla causa - efecto.
+ Establecen que no hay 
+\emph on
+milagros ni ocurren hechos al azar
+\emph default
+, sino que el comportamiento siempre está establecido.
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+Los sistemas de información transaccionales y su software asociado son sistemas
+ deterministas; ante determinados valores de entrada las salidas se encuentran
+ establecidas de antemano.
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Sistema manual
+\begin_inset Newline newline
+\end_inset
+
+
+\series default
+Son sistemas manuales aquellos que no necesitan máquinas, sólo recursos
+ manuales.
+ Por ejemplo: todos los sistemas o producciones artesanales.
+ También los sistemas de registro manuales de operacione, tal es el caso
+ de los sistemas de información manuales asociados a empresas de menor escala
+ o de procedimientos no actualizados: registros de ventas en cuadernos,
+ mantenimiento de fichas de préstamos a socios en biblioteca con fichas
+ de cartón, entre otras.
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Sistemas automatizados
+\begin_inset Newline newline
+\end_inset
+
+
+\series default
+El procesamiento es de forma automática, el procesamiento estará a cargo
+ de equipos de computación, redes, máquinas automáticas, etc.
+\begin_inset Newline newline
+\end_inset
+
+Además de los equipos informáticos y el software asociado encontramos equipos
+ automáticos en las plantas automotrices para la producción de piezas, el
+ ensamble y el testeo del producto, sistemas para el aprendizaje, etc.
+\end_layout
+
+\begin_layout Subsection*
+Otras clasificaciones
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Sistemas abstractos
+\begin_inset Newline newline
+\end_inset
+
+
+\series default
+Es un producto de la mente humana.
+ La matemática produce sistemas abstractos que se traducen en modelos matemático
+s.
+ Los sistemas de información son sistemas abstractos, por ejemplo, el software.
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Sistemas concretos
+\begin_inset Newline newline
+\end_inset
+
+
+\series default
+Son sistemas concretos aquellos que podemos comprobar y tocar: sistemas
+ mecánicos y seres vivos.
+\begin_inset Newline newline
+\end_inset
+
+Las organizaciones se conforman por un conjunto de subsistemas concretos:
+ por ejemplo las máquinas, los recursos humanos; y un conjunto de subsistemas
+ abstractos: los procedimientos, las políticas y los sistemas de información.
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Sistemas simples
+\begin_inset Newline newline
+\end_inset
+
+
+\series default
+Un sistema de elementos sencillos de describir y, por ende, de pocas relaciones
+ será un sistema simple, por ejemplo, una silla.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+
+\series bold
+Sistemas complejos
+\begin_inset Newline newline
+\end_inset
+
+
+\series default
+Es un conjunto de 
+\series bold
+elementos materiales
+\series default
+ que opera en relación con otro para lograr un objetivo.
+ Está compuesto de muchos subsistemas será entendido como un sistema complejo.
+ Estos sistemas se caracterizan por
+\series bold
+ poseer objetivos de difícil definición y no tener un comportamiento preestablec
+ido
+\series default
+.
+ Por ejemplo: un conflicto relacionado con la lucha armada es un sistema
+ complejo.
+\begin_inset Newline newline
+\end_inset
+
+Un sistema puede presentarse simple o complejo según la experiencia previa
+ o conocimientos relacionados que el observador posee, como por ejemplo
+ cuando vas al médico y tiene una rápida solución al problema.
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+Los entornos en los que se desarrollan los sistemas informáticos son complejos.
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+Los sistemas de 
+\series bold
+software
+\series default
+ de clase industrial tienden a tener un ciclo de vida largo y a lo largo
+ del tiempo muchos usuarios llegan a depender de su correcto funcionamiento,
+ la complejidad de tales sistemas excede la capacidad intelectual humana.
+ 
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+La complejidad del software se debe a cuatro razones principales:
+\end_layout
+
+\begin_layout Itemize
+La complejidad del dominio del problema: los problemas que se intentan resolver
+ con el software implican una complejidad que es inevitable, tienen requisitos
+ que compiten entre sí e incluso, a veces, se contradicen entre sí.
+ La complejidad surge habitualmente porque 
+\emph on
+los usuarios tienen grandes dificultades al intentar expresar con precisión
+ sus necesidades en una forma que los desarrolladore puedan comprender
+\emph default
+.
+\end_layout
+
+\begin_layout Itemize
+La dificultad de gestionar el proceso de desarrollo: un mayor número de
+ miembros implica una comunicación más compleja y, por lo tanto, una coordinació
+n más difícil.
+\end_layout
+
+\begin_layout Standard
+Nuestra dificultad en dominar la complejidad del software lleva a proyectos
+ retrasados, que exceden el presupuesto y que son deficientes respectos
+ a los requerimientos fijados.
+ A menudo se llama a esta situación: 
+\series bold
+crisis del software
+\series default
+.
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+Los cinco atributos de un sistema complejo son:
+\end_layout
+
+\begin_layout Enumerate
+Frecuentemente la complejidad toma la forma de una jerarquía, por lo cual
+ un sistema complejo se compone de subsistemas relacionados que tienen,
+ a su vez, sus propios subsistemas.
+\end_layout
+
+\begin_layout Enumerate
+La elección de qué componentes de un sistema son primitivos es relativamente
+ arbitraria y queda en gran medida a decisión del observador.
+\end_layout
+
+\begin_layout Enumerate
+Los enlaces internos entre los componentes suelen ser más fuertes que los
+ enlaces entre los componentes.
+ Este hecho tiene el efecto de separar la dinámica de alta frecuencia de
+ la dinámica de baja frecuencia.
+ (???????)
+\end_layout
+
+\begin_layout Enumerate
+Los sistemas complejos están compuestos habitualmente de sólo unas 
+\series bold
+pocas clases diferentes de subsistemas
+\series default
+ en varias combinaciones y disposiciones.
+\end_layout
+
+\begin_layout Enumerate
+Se encontrará invariablemente que un 
+\series bold
+sistema complejo que funciona ha evolucionado de un sistema simple que funcionab
+a
+\series default
+.
+ Un sistema complejo diseñado desde cero 
+\series bold
+nunca funciona
+\series default
+.
 \end_layout
 
 \end_body
