@@ -11,12 +11,12 @@
 \language_package default
 \inputencoding auto
 \fontencoding global
-\font_roman "default" "Corbel"
-\font_sans "default" "Arial"
-\font_typewriter "default" "Arial Narrow"
+\font_roman "default" "Ubuntu"
+\font_sans "default" "Ubuntu"
+\font_typewriter "default" "Ubuntu"
 \font_math "auto" "auto"
-\font_default_family sfdefault
-\use_non_tex_fonts false
+\font_default_family default
+\use_non_tex_fonts true
 \font_sc false
 \font_osf false
 \font_sf_scale 100 100
@@ -28,7 +28,7 @@
 \output_sync 0
 \bibtex_command default
 \index_command default
-\paperfontsize 12
+\paperfontsize 10
 \spacing single
 \use_hyperref false
 \papersize default
@@ -457,13 +457,20 @@ Las relaciones son las funciones que desempeñan cada uno de los elementos.
 \begin_inset Newline newline
 \end_inset
 
+
+\begin_inset Newline newline
+\end_inset
+
 Los 
 \series bold
 objetivos
 \series default
- del sistema establecen la razón de ser y el motivo por el cual se agruparon
- los elementos y se establecen las relaciones, deben ser formulados de forma
- clara y precisa y su redacción debe permitir evaluar su cumplimiento.
+ del sistema 
+\series bold
+establecen la razón de ser y el motivo por el cual se agruparon los elementos
+\series default
+ y se establecen las relaciones, deben ser formulados de forma clara y precisa
+ y su redacción debe permitir evaluar su cumplimiento.
  Llamaremos 
 \series bold
 medida de actuación
@@ -487,23 +494,28 @@ eficiencia y la eficacia
 \end_inset
 
 La eficacia mide el grado en el que un sistema cumple sus metas.
- Se puede calcular al dividir las metas alcanzadas en la realidad entre
- el total de metas establecidas en el plan.
+ Se puede calcular al 
+\series bold
+dividir las metas alcanzadas en la realidad entre el total de metas establecidas
+ en el plan
+\series default
+.
  Un sistema que establece un objetivo y, más allá de los recursos que insume,
  lo realiza; es un sistema eficaz.
 \begin_inset Newline newline
 \end_inset
 
-Eficacia = se mide a través de la cantidad de recursos que consume, por
+Eficiencia = se mide a través de la cantidad de recursos que consume, por
  ejemplo es común escuchar que las empresas privadas son más 
 \series bold
 eficietes 
 \series default
-que las públicas ya que su relación costo- beneficio es mejor.
+que las públicas ya que su relación costo- beneficio es mejor (ganan más
+ de lo que gastas comparado a las empresas públicas).
 \begin_inset Newline newline
 \end_inset
 
-Eficiencia = se mide mediante metas alcanzadas no importa los recursos que
+Eficacia = se mide mediante metas alcanzadas no importa los recursos que
  consume.
 \end_layout
 
@@ -698,9 +710,17 @@ Consiste en la información repecto al funcionamiento de un sistema, que
  mismo
 \series default
 .
- De esta forma se produce el control del sistema.
- El control es el proceso que mide el funcionamiento actual y lo guía hacia
- una meta determinada.
+ De esta forma se produce el
+\series bold
+ control del sistema
+\series default
+.
+ 
+\emph on
+El control es el proceso que mide el funcionamiento actual y lo guía hacia
+ una meta determinada
+\emph default
+.
 \begin_inset Newline newline
 \end_inset
 
@@ -1160,12 +1180,127 @@ Enfoque entrada - proceso - salida
 \end_layout
 
 \begin_layout Standard
-El ambiente proporciona: personas, dinero, tecnología, materiales, información.
+El ambiente proporciona: Entradas de recursos: personas, dinero, tecnología,
+ materiales, información.
 \begin_inset Newline newline
 \end_inset
 
-La organización transforma: Proceso de transformación, el trabajo convierte
+La organización transforma: Proceso de transformación: el trabajo convierte
  recursos en resultados.
+\begin_inset Newline newline
+\end_inset
+
+El ambiente consume: Salidas de productos: Productos o servicios.
+\begin_inset Newline newline
+\end_inset
+
+Retroalimentación del cliente: Salidas de productos o servicios a entradas
+ de recursos.
+\begin_inset Newline newline
+\end_inset
+
+Por tal motivo, 
+\series bold
+si se analiza la forma en la que se producen las salidas, se pueden lograr
+ mejoras en los procesos internos de las organizaciones
+\series default
+.
+ 
+\series bold
+Los procesos serán entonces el conjunto de actividades que permiten el adecuado
+ logro de los objetivos.
+\end_layout
+
+\begin_layout Subsection*
+Figura 3: Nivel de toma de decisiones en las organizaciones
+\end_layout
+
+\begin_layout Standard
+Nivel Directivo: Estrategia
+\begin_inset Newline newline
+\end_inset
+
+Nivel Administrativo: Táctica
+\begin_inset Newline newline
+\end_inset
+
+Nivel Operativo: Operaciones
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+Nivel directivo
+\begin_inset Newline newline
+\end_inset
+
+
+\series default
+En este nivel se formulan las tareas de planeación y formulación estratégica.
+ Su actividad se orienta hacia delante, es decir, hacia el futuro de la
+ organización.
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+Nivel administrativo
+\begin_inset Newline newline
+\end_inset
+
+
+\series default
+La actividad principical es la supervisión del personal operativo, por lo
+ que se requiere una interacción intensa personal.
+ Estos administradores se encargan de que el 
+\series bold
+personal operativo cumpla con los lineamientos establecidos en cada actividad
+ encomendada
+\series default
+.
+\begin_inset Newline newline
+\end_inset
+
+En este nivel se 
+\series bold
+controla el desarrollo de las actividades para cumplir con el objetivo propuesto
+\series default
+.
+ Otra función importante que desempeña este nivel es la asignación de recursos
+ para el desempeño de las actividades.
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+Nivel operativo
+\begin_inset Newline newline
+\end_inset
+
+
+\series default
+Se encuentra en la base del modelo y está compuesto por personal de operaciones.
+ Sus tareas están vinculadas con las actividades primarias de producción
+ de bienes o servicios.
+\begin_inset Newline newline
+\end_inset
+
+También se encuentra el personal de oficina, cuya actividad es la de procesar
+ transacciones.
+ Del trabajo del personal operativo surgen la mayoría de las entradas de
+ datos al sistema de información.
+\end_layout
+
+\begin_layout Section*
+La empresa constructora y sus operaciones bajo un enfoqu de sistemas
+\end_layout
+
+\begin_layout Standard
+
 \end_layout
 
 \end_body
