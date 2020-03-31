@@ -1,0 +1,198 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Subsection*
+Objetivo de la actividad
+\end_layout
+
+\begin_layout Standard
+Esta actividad te permitirá reforzar algunos términos de uso cotidiano en
+ el área de lógica, reconocer su significado e importancia.
+\end_layout
+
+\begin_layout Subsection*
+Planteo de la consigna
+\end_layout
+
+\begin_layout Standard
+En esta actividad te propongo la confección de un glosario de la siguiente
+ manera:
+\end_layout
+
+\begin_layout Enumerate
+Deberás seleccionar del grupo de términos que te brindo, aquellos que identifica
+s como estudiados en esta parte
+\end_layout
+
+\begin_layout Enumerate
+Por cada término seleccionado debes elegir cuál crees que es la definición
+ que mejor lo representa.
+\end_layout
+
+\begin_layout Enumerate
+Seleccionar de los ejemplos, aquellos que mejor se relacionan con cada término
+ y su definición.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Selecciona de este conjunto de términos que estudiamos:
+\end_layout
+
+\begin_layout Itemize
+predicado
+\end_layout
+
+\begin_layout Itemize
+variables
+\end_layout
+
+\begin_layout Itemize
+conectivo
+\end_layout
+
+\begin_layout Itemize
+propiedad
+\end_layout
+
+\begin_layout Itemize
+símbolos auxiliares
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Vincula cada término seleccionado con su definición correspondiente:
+\end_layout
+
+\begin_layout Itemize
+Cuando un predicado se conecta con una expresión.
+\end_layout
+
+\begin_layout Itemize
+Objetos que pueden tomar distintos valores.
+\end_layout
+
+\begin_layout Itemize
+Expresión que une proposiciones.
+\end_layout
+
+\begin_layout Itemize
+Expresiones que ayudan a ordenar a las proposiciones y los conectivos.
+\end_layout
+
+\begin_layout Itemize
+Expresión del lenguaje con la capacidad de conectarse con otras expresiones
+ para formar una proposición.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Ahora selecciona un ejemplo para cada uno de los conceptos que formaste:
+\end_layout
+
+\begin_layout Itemize
+X, Y, Z, X1, X2, 
+\begin_inset Formula $\cdots$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+(), [], {}
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Formula $¬,\land,\lor,\rightarrow,\leftrightarrow$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+la ecuación 
+\begin_inset Formula $x$
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
