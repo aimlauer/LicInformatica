@@ -902,7 +902,629 @@ Método por departamento o secciones
 
 \begin_layout Standard
 Este método parte de la actual estructura de la organización.
- Es decir que necesitamos conocer las áreas funcionales de la misma 
+ Es decir que necesitamos conocer las áreas funcionales de la misma y que
+ se representan en gráficas como organigramas, planos, descripciones de
+ procesos.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Se identifica una sección o área y, dentro de ella, se observan todos los
+ elemetnos que den lugar al tratamiento de informaciónUna desventaja del
+ método es que no permite ver los puntos de contacto y relaciones entre
+ los ﬂujos de información dentro de la organización.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+La aplicación de este método se realiza de la siguiente manera:
+\end_layout
+
+\begin_layout Itemize
+Obtener una descripción de las funciones y límites del sector bajo estudio,
+ así como la relación con otros departamentos.
+\end_layout
+
+\begin_layout Itemize
+Obtener una lista de las diferentes funciones y actividades que se desarrollan.
+\end_layout
+
+\begin_layout Itemize
+De acuerdo a dicha lista, obtener una descripción de cada actividad, controles
+ que se realizan, políticas que se aplican y decisiones que se toman
+\end_layout
+
+\begin_layout Itemize
+Observar cada actividad en detalle.
+ Anotar qué información se necesita y qué información se produce.
+ Si se utilizan registros o archivos obtener su descripción y contenido.
+\end_layout
+
+\begin_layout Itemize
+Conseguir copias de todos los documentos que se utilizan en los procesos.
+\end_layout
+
+\begin_layout Itemize
+Conseguir ejemplares de dichos documentos en blanco; se puede hacer durante
+ la observación de las actividades.
+\end_layout
+
+\begin_layout Standard
+Ya hemos repasado organizaciones como sistemas, tenemos información sobre
+ sus estructuras y la forma en la que se desarrollan los organigramas.
+ 
+\end_layout
+
+\begin_layout Subsection
+Método orientado a las funciones o actividades
+\end_layout
+
+\begin_layout Standard
+Se utiliza para tener en claro qué información se necesita para iniciar
+ y/o realizar determinada actividad.
+ Se utiliza como complento del método por departamento o por estímulo.
+\end_layout
+
+\begin_layout Subsection
+Método orientado al objeto
+\end_layout
+
+\begin_layout Standard
+Este método se concentra en el estudio de las cosas y servicios que se producen
+ en una determinada organización o dominio de problema.
+ Se basa en la detección de los objetos o entidades presentes en el contexto
+ del problema y, en base a estos elementos, se observan todas las actividades
+ e información asociada.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Si observas los elementos que conforman un sistema, detectarás que los sistemas
+ están compuestos por elementos u objetos.
+ El método orientado al objeto establece que se determinen los objetos más
+ importantes del sistema bajo estudio y para él se determinan las necesidades
+ de información o los requerimientos.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Observar cada actividad en detalle.
+ Anotar qué información se necesita y qué información se produce.
+ Si se utilizan registros o archivos obtener su descripción y contenido.
+ Conseguir copias de todos los documentos que se utilizan en los procesos.
+ Conseguir ejemplares de dichos documentos en blanco; se puede hacer durante
+ la observación de las actividades.
+ En la tabla siguiente verás un ejemplo de los objetos y la información
+ asociada a los mismos para un sistema de información de clientes:
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+Tabla 1: sistemas de información de clientes.
+\begin_inset Newline newline
+\end_inset
+
+....
+ (Ver página 8 del último documento)
+\end_layout
+
+\begin_layout Subsection
+Método de análisis de salidas
+\end_layout
+
+\begin_layout Standard
+Este método se basa en el
+\series bold
+ análisis de los documentos de salida de la organizació
+\series default
+n.
+ A través de estudiar qué información
+\series bold
+ procesan y qué datos conforman las salidas es posible establecer cuáles
+ son los datos necesarios para que esta información se produzca
+\series default
+.
+ Podemos decir que es un método del estúmulo al revés.
+\begin_inset Newline newline
+\end_inset
+
+Por ejemplo, el documento 
+\begin_inset Quotes eld
+\end_inset
+
+lista de pedidos pendientes de entrega
+\begin_inset Quotes erd
+\end_inset
+
+ incluye los siguientes datos: datos del cliente + Nro.
+ de pedido + fecha de pedido + nombre del artículo + cantidad pendiente.
+\begin_inset Newline newline
+\end_inset
+
+Esto indica que para poder obtener dicho documento será necesaria la siguiente
+ información: datos el pedido realizado por el cliente, datos de existencias
+ de stock.
+\end_layout
+
+\begin_layout Section
+Selección del método
+\end_layout
+
+\begin_layout Standard
+El método por estímulo se adapta mejor durante la primera parte de la etapa
+ de análisis ya que brinda una mejor relación entre los distintos procesos
+ que conforman el problema.
+ La información se presenta en forma dinámica y es guiada por la presencia
+ de los actores o también llamados elementos externos.
+ 
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+El método orientado a las actividades es utilizado en pequeñas organizaciones
+ o procedimientos de menor complejidad.
+ El método orientado al objeto es un excelente complemento para determinar
+ el contendio de los registros o archivos de datos.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\series default
+Estos dos últimos métodos no dan una imágen compleja del flujo de información,
+ por eso se utilizan como complementos del método de estímulos.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Como consideraciones generales de aplicación de los distintos métodos que
+ se han estudiado en estos apartados podemos decir que:
+\end_layout
+
+\begin_layout Itemize
+Es importante evaluar los documentos existentes, analizar su contendio y
+ frecuencia de uso, saber quénes los usan y para qué, conocer si tienen
+ exceso o carencia de datos, defectos de diseño, inconsistencias, redundancias.
+\end_layout
+
+\begin_layout Itemize
+Siempre llegar un registro de las respuestas que dan los distintos usuarios
+ con respecto al uso de los documentos (valoraciones acerca del contenido,
+ uso, frecuencia, utilidad real).
+\end_layout
+
+\begin_layout Itemize
+Indique la causa de los 
+\begin_inset Quotes eld
+\end_inset
+
+cuellos de botella
+\begin_inset Quotes erd
+\end_inset
+
+, fluctuaciones, sobrecargas de trabajo, etc.
+\end_layout
+
+\begin_layout Itemize
+Trate de verificar el volumen de los datos a partir del material obtenido.
+ Si esa información no existe, trate de obtenerla durante la observación.
+\end_layout
+
+\begin_layout Section
+Técnicas de recolección de información
+\end_layout
+
+\begin_layout Subsection
+Muestreo
+\end_layout
+
+\begin_layout Standard
+El muestreo es el proceso de seleccionar sistemáticamente elementos representant
+ivos de una población.
+ El muestreo ayuda a acelear el proceso, recolecta datos seleccionados en
+ vez de todos los datos de la población completa.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Esta técnica es muy usada en las investigaciones en ciencias sociales en
+ las cuales la población es muy numerosa, pero es posible encontrar grupos
+ con comportamiento semejante.
+ Por ejemplo: un muestreo para realizar encuestas de consumo de determinados
+ productos o para evaluar el nivel económico de la población.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Los cuatro pasos que deben seguirse para diseñar una nuestra son:
+\end_layout
+
+\begin_layout Enumerate
+Determinar los datos a ser recolectados: el analista de sistemas necesita
+ un plan realista sobre lo que hará con los datos una vez que los recolecte.
+ Las tareas del analista en esta etapa son: identificar las variables, atributos
+ y conceptos de datos asociados que necesitan ser recolectados en la muestra.
+\end_layout
+
+\begin_layout Enumerate
+Determinación de la población a ser muestrada.
+\end_layout
+
+\begin_layout Enumerate
+selección del tipo de muestra.
+\end_layout
+
+\begin_layout Enumerate
+Decisión del tamaño de la muestra: el tamaño de la muestra depende, frecuentemen
+te, del costo involucrado, el tiempo requerido or el analista de sistemas
+ o hasta el tiempo disponible por las personas de la organización.
+ Hay que seguir una serie de pasos, para decidir el tamaño de la muestra.
+\end_layout
+
+\begin_layout Standard
+La información que buscamos en una investigación por muestreo incluye hechos
+ y cifras, información financiera, tipos de doc.
+ y el conctexto organizacional.
+ Proporcionará datos relevantes acumulados, que no pueden obtenerse por
+ medio de otros métodos, tales como la enrtevista o la observación.
+\end_layout
+
+\begin_layout Subsection
+Análisis de documentos
+\end_layout
+
+\begin_layout Standard
+Documentos cuatitativos y los documentos cualitativos.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Hay una gran variedad de documentos cuantitativos, entre ellos están los
+ reportes usados para la toma de decisiones, reportes de desempeño y otros
+ formularios.
+ Estos documentos se caracterizan por poseer información de resultados o
+ números.
+ 
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Algunos de los tipos de elementos 
+\series bold
+cuatitativos
+\series default
+ a considerar son:
+\end_layout
+
+\begin_layout Itemize
+Reportes usados para la toma de decisiones: frecuentemente reportes en papel
+ que reﬂejan el estado del inventario, las ventas o la producción.
+\end_layout
+
+\begin_layout Itemize
+Reportes de desempeño: la mayoría de los reportes de desempeño comparan
+ el desempeño actual con el programado.
+\end_layout
+
+\begin_layout Itemize
+Registros: los registros proporcionan actualizaciones periódicas de lo que
+ sucede en el negocio.
+ Si el registro está actualizado, puede proporcionar gran cantidad información
+ al analista.
+\end_layout
+
+\begin_layout Standard
+Es frecuente encontrar sistemas de información que llevan registros de textos.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Entre los tipos de documentos 
+\series bold
+cualitativos
+\series default
+ encontramos:
+\end_layout
+
+\begin_layout Enumerate
+memorándum: estos son documentos formales enviados al interior de la organizació
+n.
+\end_layout
+
+\begin_layout Enumerate
+Papeles sueltos colocados en avisadores, utilizados como recordatorios.
+ Aunque las consignas pueden parecer incidentales a lo que sucede en la
+ organización, sirven como reforzadores de los valores de quieres los leen.
+\end_layout
+
+\begin_layout Enumerate
+Manuales.
+\end_layout
+
+\begin_layout Enumerate
+Manuales de política.
+\end_layout
+
+\begin_layout Enumerate
+en la actualizdad el estudio de la información contenida en sitios web y
+ en emails de trabajo son considerados doc.
+ cualitativos.
+\end_layout
+
+\begin_layout Section
+Entrevistas
+\end_layout
+
+\begin_layout Standard
+Una entrevista se una conversación dirigida con un propósito específico
+ y que se basa en el uso de un formato preestablecido de preguntas y respuestas.
+\begin_inset Newline newline
+\end_inset
+
+En la entrevista se quiere obtener la opinión del entrevistado y sus sentimiento
+s acerca del estado actual del sistema, los objetivos de la organización,
+ el personal y los procedimientos informales.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Los pasos para concretar una entrevista son:
+\end_layout
+
+\begin_layout Itemize
+Leer el material, tanto del entrevistado, como del problema y la organización.
+\end_layout
+
+\begin_layout Itemize
+Establecer de los objetivos de la entrevista.
+ Use la información de fondo que recopiló, así como su propia experiencia,
+ para deﬁnir los objetivos de la entrevista.
+\end_layout
+
+\begin_layout Itemize
+Decidir a quién entrevistar.
+ 
+\end_layout
+
+\begin_layout Itemize
+Contactar la entrevista: organizar en base a los tiempos disponibles por
+ el entrevistado el momento adecuado de aplicar el instrumento.
+ Se establece la fecha, hora, lugar y duración de la entrevista.
+ 
+\end_layout
+
+\begin_layout Itemize
+Redactar las preguntas que realizará (Kendall y Kendall, 1997).  
+\end_layout
+
+\begin_layout Enumerate
+Tipos de preguntas (kendall 1997): Preguntas abiertas: tales como: ¿Qué
+ problemas encuentra Ud.
+ en el actual procedimiento de captura de pedidos web? ¿Qué información
+ necesita Ud., como encargado de ventas; para determinar la eficiencia de
+ un vendedor?
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+\emph on
+Ventajas:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Ponen confortable al entrevistado.
+\end_layout
+
+\begin_layout Itemize
+Proporcionan riqueza de detalles.
+\end_layout
+
+\begin_layout Itemize
+revelan caminos para preguntas posteriores que podrían haber quedado sin
+ hacer.
+\end_layout
+
+\begin_layout Itemize
+Permiten más espontaneidad.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\emph on
+Desventajas
+\end_layout
+
+\begin_layout Itemize
+Pueden tener respuestas con muchos detalles y de poca relevancia para la
+ investigación.
+\end_layout
+
+\begin_layout Itemize
+Se puede perder el control de la entrevista.
+\end_layout
+
+\begin_layout Itemize
+Puede insumir demasiado tiempo.
+\end_layout
+
+\begin_layout Itemize
+Puede conducir a que el entrevistado también realice preguntas y coloque
+ al entrevistador en una posición de desventaja de conocimiento.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Preguntas cerradas: poseen la siguiente forma ¿Cuántos empleados trabajan
+ en la sección de ventas? ¿Cuántos artículos en promedio conforman un ticket
+ de venta? ¿A qué hora se realiza el despacho de pedido de los clientes?
+ La respuesta por parte del entrevistado es un número (incluído el 0).
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Ventajas:
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Se ahorra tiempo.
+\end_layout
+
+\begin_layout Enumerate
+Se facilita la comparación de enrtevistas entre distintas personas.
+\end_layout
+
+\begin_layout Enumerate
+Se mantiene control sobre la entrevista.
+\end_layout
+
+\begin_layout Enumerate
+Se obtienen datos relevantes.
+\end_layout
+
+\begin_layout Enumerate
+No es necesario contar con un entrevistador formado.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Desventajas:
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Son aburridas para el entrevistado.
+\end_layout
+
+\begin_layout Enumerate
+Impide obtener detalles de procedimientos y expericiencias.
+\end_layout
+
+\begin_layout Enumerate
+No se llega a generar una relación de cordialidad entre el entrevistado
+ y el enrtevistador.
+\end_layout
+
+\begin_layout Enumerate
+Abusar de estas preguntas puede dar la impresión de que se trata de una
+ encuesta.
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Subsubsection
+El registro de la entrevista
+\end_layout
+
+\begin_layout Standard
+Durante el desarrollo de la entrevista se pueden acordar distintos tipos
+ elementos para llevar el registro de las respuestas.
+ el elemento más utilizado es el registro en papel pero también pueden ser
+ grabaciones, o diretamente en equipos informa´ticos a través de procesadores
+ de texto.
+\begin_inset Newline newline
+\end_inset
+
+Según el tipo de proyecto se puede colectar información por grupos de usuarios
+ o un grupo de analista.
+\end_layout
+
+\begin_layout Section
+Cuestionarios
+\end_layout
+
+\begin_layout Standard
+Los cuestionarios son una técnica de recolección de información que permite
+ a los analistas de sistemas estudiar actitudes, creencias, comportamientos
+ y características de varias personas de la organización que pueden estar
+ afectadas por los sistemas actual y propuestos.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Podrás encontrar el concepto de cuestionario en distintas bibliografías,
+ con distintas valoraciones.
+ Es común confundirlo con el cepto de encuesta.
+ Se puede decir, a grandes rasgos, que es el mismo elemento: una encuesta
+ se refiere a la aplicación de una herramienta (llamado cuestionario) a
+ una muestra de población.
+\begin_inset Newline newline
+\end_inset
+
+El desarrollo de un cuestionario lleva un gran tiempo de planeación.
+ El elemento más importante a considerar en el desarrollo previo del formulario
+ del cuestionario es determinar cuáles son las variables que se investigarán
+ y cuáles son los indicadores posibles.
+ 
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Algunos lineamientos que ayudarán a decidir si es adecuado el uso de cuestionari
+os son: 
+\end_layout
+
+\begin_layout Itemize
+Las personas a quienes necesitan preguntarles están ampliamente dispersas.
+\end_layout
+
+\begin_layout Itemize
+....
 \end_layout
 
 \end_body
