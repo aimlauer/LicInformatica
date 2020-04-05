@@ -81,7 +81,7 @@ Dato vs.
 \end_layout
 
 \begin_layout Subsection*
-La información en las organizaciones
+kkLa información en las organizaciones
 \end_layout
 
 \begin_layout Standard
@@ -156,6 +156,10 @@ Estos atributos asumen valores (que son datos)
  para cada instancia o momento en especial.
  De este modo, la compra realizada por Juan Pérez el 7 de marzo tendrá los
  siguientse datos: JP, 07/03/09, 12:25.
+\begin_inset Newline newline
+\end_inset
+
+
 \end_layout
 
 \begin_layout Subsection*
@@ -267,7 +271,7 @@ Atributos de la información
 \end_layout
 
 \begin_layout Standard
-El valor del a información está directamente relacionado con la utilidad
+El valor de la información está directamente relacionado con la utilidad
  que tiene la misma para los responsables de la toma de decisiones.
 \begin_inset Newline newline
 \end_inset
@@ -382,12 +386,16 @@ desarrollan sus actividades en entornos organizacionales variados y son
 sistema-objeto 
 \series default
 y en otras bibliografías como procesos de negocio.
+
+\emph on
  Es así que un vendedor se desarrolla dentro de un proceso de ventas que
  le establece qué hacer, con quién comunicarse, cómo realizar la actividad,
  cómo tratar al cliente, qué artículos ofrecer, cómo llenar los formularios
  y demás.
  Este proceso de negocio deriva para el sistema de información un conjunto
  de demandas de información para que este vendedor desarrolle mejor su actividad.
+\emph default
+
 \begin_inset Newline newline
 \end_inset
 
@@ -447,6 +455,8 @@ Los gerentes, los administradores y los planificadores gerenciales que han
 \begin_inset Newline newline
 \end_inset
 
+
+\emph on
 Los sistemas de información facilitan el aprovechamiento de dos componentes
  claves en una organización actual: la información, y los recursos humanos.
  La gerencia necesita la información por las siguientes razones:
@@ -546,7 +556,7 @@ los objetivos organizacionales, las políticas sobre los recursos y se delimitan
  la empresa
 \series default
 .
- Lo encontrarás tambie´n ajo el nombre de nivel estratégico.
+ Lo encontrarás también con el nombre de nivel estratégico.
 \end_layout
 
 \begin_layout Enumerate
@@ -700,7 +710,7 @@ La actividad de investigación comprende la indigación de los usuarios, la
  inspección del entorno organizacional y sus procesos y la observación de
  los datos.
  Estas primeras inquietudes de investigación toman importancia ya que una
- adecuada identificaciónd e necesidad de información da lugar a un correcto
+ adecuada identificación e necesidad de información da lugar a un correcto
  análisis y, por ende, a una construcción correcta.
 \begin_inset Newline newline
 \end_inset
@@ -1170,7 +1180,7 @@ Esta técnica es muy usada en las investigaciones en ciencias sociales en
 \begin_inset Newline newline
 \end_inset
 
-Los cuatro pasos que deben seguirse para diseñar una nuestra son:
+Los cuatro pasos que deben seguirse para diseñar una muestra son:
 \end_layout
 
 \begin_layout Enumerate
@@ -1185,7 +1195,7 @@ Determinación de la población a ser muestrada.
 \end_layout
 
 \begin_layout Enumerate
-selección del tipo de muestra.
+Selección del tipo de muestra.
 \end_layout
 
 \begin_layout Enumerate
@@ -1248,7 +1258,7 @@ Reportes de desempeño: la mayoría de los reportes de desempeño comparan
 
 \begin_layout Itemize
 Registros: los registros proporcionan actualizaciones periódicas de lo que
- sucede en el negocio.
+ sucede en el negocmio.
  Si el registro está actualizado, puede proporcionar gran cantidad información
  al analista.
 \end_layout
@@ -1521,6 +1531,376 @@ os son:
 
 \begin_layout Itemize
 Las personas a quienes necesitan preguntarles están ampliamente dispersas.
+\end_layout
+
+\begin_layout Itemize
+....
+\end_layout
+
+\begin_layout Subsection*
+El documento de especificación de requerimientos de software
+\end_layout
+
+\begin_layout Standard
+El proceso de especificación de los requerimientos es un proceso interactivo
+ y con retroalimentación continua entre el personal que realiza el desarrollo
+ y los usuarios, lo que permitirá introducir los cambios necesarios en los
+ requerimientos del cliente a lo largo del desarrollo del proyecto.
+\begin_inset Newline newline
+\end_inset
+
+La tarea fundamental que se define para este proceso es la de realizar un
+ análisis de los requerimientos detectaos y crear los modelos necesarios
+ para representar la solución del software, que tiene en cuenta esos requerimien
+tos.
+ La solución presentada es una solución lógica o teórica, libre de cualq.
+ aspecto referido a cómo se implementará el sistema.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Como resultado del desarrollo de este proceso se obtiene el documento de
+ Especificación de requerimientos de software (ERS) que expresa los requerimient
+os funcionales detectados a través de los modelos que dan solución a los
+ mismos.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Para la creación del ERS, un analistas cuenta con una serie de 
+\end_layout
+
+\begin_layout Subsection*
+Datos
+\end_layout
+
+\begin_layout Standard
+Mínima unidad semántica.
+ Se corresponden con elementos primarios de informaci´no que por sí solos
+ son irrelevantes como apoyo a la toma de decisiones.
+\end_layout
+
+\begin_layout Subsection
+Información
+\end_layout
+
+\begin_layout Standard
+Datos con significado e interpretación.
+\end_layout
+
+\begin_layout Subsection
+Sistemas de Información
+\end_layout
+
+\begin_layout Standard
+Conjunto de elementos interrelacionados que tienen el objetivo de generar
+ información a través del tratamiento de datos esta información se coloca
+ en un contexto válido para mejroar la toma de decisiones.
+ Esto produce una ventaja competitiva frente a otras organizaciones.
+ Cuanto mejor información hay mejor y cantidad de datos procesos mayores
+ son los beneficios que alcanzan.
+\end_layout
+
+\begin_layout Subsection
+Actividad 2
+\end_layout
+
+\begin_layout Standard
+\begin_inset Tabular
+<lyxtabular version="3" rows="4" columns="2">
+<features tabularvalignment="middle">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Información relevante
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Infomación no relevante
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Médicos que atienden en el Centro Médicos
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Gastos de servicios de luz y gas.
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Toma de decisiones
+\end_layout
+
+\begin_layout Standard
+Conjunto de pasos que permiten resolver un problema.
+ Asociado a la necesidad de información, cada vez que uno tiene que tomar
+ una decisión tiene que tener altenativas al problema, de esas alternativas
+ conocer los costos y beneficios de cada una.
+\end_layout
+
+\begin_layout Subsection
+Diferentes herramientas o diferentes capas de la misma herramienta.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Tabular
+<lyxtabular version="3" rows="5" columns="3">
+<features tabularvalignment="middle">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Alta dirección
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Mandos intermedios
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Gestión operativa, equipos y empleados
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Executive Informations Systems
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Management Informations Systems
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Sistemas cooporativos y departamentales
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Management Information Systems
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Reports, consultas
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Reports, Consultas
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Cuadros de Mando
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Extracción y entegración de datos
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Ssistemas de apoyo a la decisión
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Reports.
+ Consultas.
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Requerimientos funcionales y no funcionales
+\end_layout
+
+\begin_layout Standard
+Un requerimiento funcional es el que describe la funcionalidad que se espera
+ que el sistema provea.
+ Además, estos requerimientos indican cómo deberá comportarse el sistema
+ ante determinado estímulo y cómo interaccionará con el ambiente.
+ Describe lo que el sistema hará, 
+\series bold
+pero no brinda detalles de su implementación
+\series default
+.
+ Por ejemplo registrar el pedido del cliente.
+\begin_inset Newline newline
+\end_inset
+
+Un requerimiento no funcional impone restricciones al sistema que limitan
+ la forma en la que srá implementado.
+ Estas restricciones tienen que ver, por ejemplo, con la selección del lenguaje
+ de programación.
 \end_layout
 
 \end_body
