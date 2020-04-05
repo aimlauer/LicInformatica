@@ -543,7 +543,11 @@ A los efectos de toma de decisiones en las organizaciones enocntramos distintos
 \end_layout
 
 \begin_layout Enumerate
+
+\series bold
 Nivel directivo
+\series default
+
 \begin_inset Newline newline
 \end_inset
 
@@ -560,7 +564,11 @@ los objetivos organizacionales, las políticas sobre los recursos y se delimitan
 \end_layout
 
 \begin_layout Enumerate
+
+\series bold
 Nivel administrativo
+\series default
+
 \begin_inset Newline newline
 \end_inset
 
@@ -581,7 +589,11 @@ Los gerentes de nivel medio toman decisiones sobre la planeación y control
 \end_layout
 
 \begin_layout Enumerate
+
+\series bold
 Nivel operativo
+\series default
+
 \begin_inset Newline newline
 \end_inset
 
